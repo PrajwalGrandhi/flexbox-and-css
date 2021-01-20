@@ -1,0 +1,23 @@
+
+h1{color:blue}
+h1{border:solid}
+p{color:blueviolet}
+*{
+    border: solid;
+}
+.Heading{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+.PingPong
+{
+     display: flex;
+     justify-content:center;
+     flex-direction:column;
+     flex-wrap: wrap;
+     background-color: aquamarine;
+}
+.Trex{
+    color:red
+}
